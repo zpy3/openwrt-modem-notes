@@ -1,0 +1,11 @@
+*.cab
+*.bin
+ota.bin
+fw.cab
+__pycache__/
+.DS_Store
+Thumbs.db
+*.iso
+_tmp_*
+.env
+*.log
